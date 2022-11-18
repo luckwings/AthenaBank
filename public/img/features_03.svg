@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="vuesax_bold_percentage-circle" data-name="vuesax/bold/percentage-circle" transform="translate(-684 -252)">
+    <g id="percentage-circle" transform="translate(684 252)">
+      <path id="Vector" d="M0,0H40V40H0Z" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M16.667,0A16.667,16.667,0,1,0,33.333,16.667,16.673,16.673,0,0,0,16.667,0Zm-5.45,9.433A2.467,2.467,0,1,1,8.75,11.9,2.472,2.472,0,0,1,11.217,9.433ZM11.417,23A1.247,1.247,0,0,1,9.65,23a1.257,1.257,0,0,1,0-1.767L20.567,10.317a1.249,1.249,0,0,1,1.767,1.767Zm10.7.9a2.467,2.467,0,1,1,2.467-2.467A2.472,2.472,0,0,1,22.117,23.9Z" transform="translate(3.333 3.333)" fill="#ffaa28"/>
+    </g>
+  </g>
+</svg>

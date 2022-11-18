@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="vuesax_bold_lock" data-name="vuesax/bold/lock" transform="translate(-172 -252)">
+    <path id="Vector" d="M2.173,1.087A1.087,1.087,0,1,1,1.087,0,1.087,1.087,0,0,1,2.173,1.087Z" transform="translate(178.913 261.393)" fill="#30d158"/>
+    <path id="Vector-2" data-name="Vector" d="M10.853,5.02V4.187C10.853,2.387,10.42,0,6.667,0S2.48,2.387,2.48,4.187V5.02C.613,5.253,0,6.2,0,8.527v1.24c0,2.733.833,3.567,3.567,3.567h6.2c2.733,0,3.567-.833,3.567-3.567V8.527C13.333,6.2,12.72,5.253,10.853,5.02ZM6.667,11.16A2.013,2.013,0,1,1,8.68,9.147,2.016,2.016,0,0,1,6.667,11.16Zm-3.1-6.2H3.413V4.187c0-1.953.553-3.253,3.253-3.253S9.92,2.233,9.92,4.187v.78H3.567Z" transform="translate(173.333 253.333)" fill="#30d158"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(188 268) rotate(180)" fill="none" opacity="0"/>
+  </g>
+</svg>

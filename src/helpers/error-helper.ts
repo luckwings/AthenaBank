@@ -1,0 +1,18 @@
+export const ErrCodeMsgs = {
+  "4001": "Rejected the request",
+  "4100": "The requested account and/or method has not been authorized by the user",
+  "4200": "The requested method is not supported",
+  "4900": "Wallet is not connected",
+  "4901": "Wallet is not connected",
+  "-32700": "Invalid Data",
+  "-32600": "Invalid Data",
+  "-32601": "Feature is not available",
+  "-32602": "Invalid Data",
+  "-32603": "Invalid Data",
+  "-32000": "Invalid input",
+  "-32001": "Resource not found",
+  "-32002": "Resource unavailable",
+  "-32003": "Transaction rejected",
+  "-32004": "Feature is not available",
+  "-32005": "Request limit exceeded",
+};

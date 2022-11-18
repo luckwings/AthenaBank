@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="trading_view" data-name="trading view" transform="translate(2450 7627)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(-2450 -7627)" fill="none" stroke="#5994f0" stroke-width="1" opacity="0.2">
+      <circle cx="15" cy="15" r="15" stroke="none"/>
+      <circle cx="15" cy="15" r="14.5" fill="none"/>
+    </g>
+    <g id="Group_2197" data-name="Group 2197" transform="translate(-2443 -7620)" opacity="1">
+      <path id="Path_5841" data-name="Path 5841" d="M6.31,12.113H3.155V7.155H0V4H6.31Zm6.31,0H9.014L12.394,4H16Z" fill="#fff"/>
+      <circle id="Ellipse_312" data-name="Ellipse 312" cx="1.803" cy="1.803" r="1.803" transform="translate(7.211 4)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

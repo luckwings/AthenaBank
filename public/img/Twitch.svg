@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_2109" data-name="Group 2109" transform="translate(14345 19732)">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(-14345 -19732)" fill="none" stroke="#5994f0" stroke-width="1" opacity="0.2">
+      <circle cx="15" cy="15" r="15" stroke="none"/>
+      <circle cx="15" cy="15" r="14.5" fill="none"/>
+    </g>
+    <path id="_4691519_twitch_icon" data-name="4691519_twitch_icon" d="M1.437,0,.525,2.435v9.738H3.871V14H5.7l1.824-1.827h2.739l3.652-3.651V0ZM2.654,1.216H12.7v6.7l-2.13,2.13H7.219L5.395,11.867V10.043H2.654ZM6,7.3H7.219V3.653H6Zm3.345,0h1.217V3.653H9.348Z" transform="translate(-14337.525 -19724)" fill="#fff" opacity="1"/>
+  </g>
+</svg>
